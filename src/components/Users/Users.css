@@ -1,0 +1,11 @@
+.user-content {}
+
+.user-content h3 {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.user-content p {
+    margin: 0;
+    font-size: 17px;
+}
